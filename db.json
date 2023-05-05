@@ -1,0 +1,34 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "year": 1994,
+        "genre": "Drama",
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "cast": ["Tim Robbins", "Morgan Freeman"],
+        "ratings": [9.3, 8.9, 9.2]
+      },
+      {
+        "id": 2,
+        "title": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "year": 1972,
+        "genre": "Crime, Drama",
+        "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "ratings": [9.2, 9.0, 9.3]
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "year": 2008,
+        "genre": "Action, Crime, Drama",
+        "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+        "ratings": [9.0, 9.2, 8.8]
+      }
+    ]
+  }
